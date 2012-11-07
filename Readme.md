@@ -1,6 +1,3 @@
 
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/amichaelgrant/HSM.git
-git push -u origin master
+An unfinished HSM driver for nodejs.
+Work is still heavily in progress and will surely take some time to finish.
